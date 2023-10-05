@@ -4,13 +4,16 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&amp;family=Prompt:wght@200&amp;ampfamily=Roboto:wght@300&amp;;900;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&amp;family=Prompt:wght@200&amp;ampfamily=Roboto:wght@300&amp;;900;display=swap"
+
       rel="stylesheet">
   </head>
   <body class="my-background"><b> </b>
@@ -19,14 +22,15 @@
       </nav>
       <div class="mx-auto p-2" style="width: 1000px;"><br>
       </div>
-      <div class="mx-auto p-2" style="width: 1000px;">
         <div class="row"><br>
         </div>
         <b><br>
         </b>
         <div class="row">
-          <div class="col-md-2" style="text-align: left; margin-left: 40px;"> <b><img
-                alt="usa_images" src="images/usapic.jpg" style="width: 180px; height: 180px;"
+          <div class="col-md-2" style="text-align: left; margin-left: 40px;"> <b><img
+
+                alt="usa_images" src="images/usapic.jpg" style="width: 180px; height: 180px;"
+
                 class="rounded-circle"></b> </div>
           <div class="col-md-9"> <b><br>
             </b>
@@ -45,17 +49,20 @@
             <h3><b>CONTACT</b></h3>
             <ul>
               <div class="row">
-                <li class="list-item" style="list-style-image: url(&quot;images/telephone.svg&quot;);"
+                <li class="list-item" style="list-style-image: url(&quot;images/telephone.svg&quot;);"
+
                   value="2"><dd>094-857-9750</dd>
                 </li>
               </div>
               <div class="row">
-                <li class="list-item" style="list-style-image: url(&quot;images/envelope-open-heart.svg&quot;);"><a
+                <li class="list-item" style="list-style-image: url(&quot;images/envelope-open-heart.svg&quot;);"><a
+
                     href="mailto:Usa%20Bannarak" target="_blank"><dd>usabnr13@gmail.com</dd>
                   </a></li>
               </div>
               <div class="row">
-                <li class="list-item" style="list-style-image: url(&quot;images/line.svg&quot;);"><a
+                <li class="list-item" style="list-style-image: url(&quot;images/line.svg&quot;);"><a
+
                     href="https://line.me/ti/p/ctt09YZJ_N" target="_top"><dd>usa13ss</dd>
                   </a></li>
               </div>
@@ -73,7 +80,7 @@
               using my skills and experience to design compelling and attractive
               websites.And Energatic Web Designer with 3 years experience
               creating and miantaining functional, attractive, and responsive
-              websites for travel companies. </dd>
+              websites for travel companies.640510713</dd>
           </div>
         </div>
         <b><br>
@@ -120,7 +127,8 @@
         <div class="row">
           <div class="col-md-4">
             <h4> <b>SKILL</b></h4>
-            <div style="text-align: left; margin-left: 40px;"><b><img alt="skill design"
+            <div style="text-align: left; margin-left: 40px;"><b><img alt="skill design"
+
                   src="images/skill%20design.png" class="rounded" style="width: 193px; height: 265px;"></b></div>
           </div>
           <div class="col-md-4">
@@ -133,7 +141,8 @@
           </div>
           <div class="col-md-4">
             <h4> <b>LANGUAGES</b></h4>
-            <div style="text-align: left; margin-left: 40px;"><b><img alt="Language skill"
+            <div style="text-align: left; margin-left: 40px;"><b><img alt="Language skill"
+
                   src="images/Language%20skill.png" class="rounded" style="width: 174px; height: 165px;"></b></div>
           </div>
         </div>
@@ -145,8 +154,10 @@
       </nav>
     </div>
     <b>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
 crossorigin="anonymous"></script> </b>
   </body>
 </html>

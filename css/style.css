@@ -1,7 +1,7 @@
 .my-background {
     background-color : #FFFFFF;
 }
-h1 {font-family:'Prompt', sans-serif;
+h1 {font-family: 'Kanit', sans-serif;
      color : #1D4355;
 }
 .my-background2 {
@@ -31,4 +31,7 @@ color :#365B6D;
 }
 dt {font-family: 'Prompt', sans-serif;
 color :#365B6D;
+}
+.head-bg {
+  background-color: #CDE5F1;
 }
